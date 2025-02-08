@@ -146,7 +146,8 @@ function App() {
               © 2025 ML Algorithm Visualizer. All rights reserved.
             </p>
             <p className="text-gray-400 text-sm">
-              Developed by StackBlitz
+              Developed by Neural Knights
+              <span>♞Shakeer ♞Yaswanth ♞Prathyush ♞Harshitha</span>
             </p>
           </div>
         </div>
