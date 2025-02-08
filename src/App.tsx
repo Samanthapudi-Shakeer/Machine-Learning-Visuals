@@ -147,7 +147,7 @@ function App() {
             </p>
             <p className="text-gray-400 text-sm">
               Developed by Neural Knights
-              <span>♞Shakeer ♞Yaswanth ♞Prathyush ♞Harshitha</span>
+              <span> - ♞Shakeer ♞Yaswanth ♞Prathyush ♞Harshitha</span>
             </p>
           </div>
         </div>
